@@ -8,6 +8,6 @@
  
 <p align="center">
 
-  <img src="etc/img01.png" width="100%" style="margin: 5px;">
+  <img src="etc/img01.png" width="50%" style="margin: 5px;">
   
   </p>
